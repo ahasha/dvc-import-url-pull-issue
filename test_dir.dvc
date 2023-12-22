@@ -1,0 +1,14 @@
+md5: 21ea22564d9f7612ae38c27d979f7bda
+frozen: true
+deps:
+- md5: bceda0105a8ce22bc5afab3afe7a7d5d.dir
+  size: 12
+  nfiles: 3
+  hash: md5
+  path: gs://hasha-ds-public/test_dir/
+outs:
+- md5: 1d11c7a5b27be472c74e0cc09b2a4582.dir
+  size: 12
+  nfiles: 3
+  hash: md5
+  path: test_dir
